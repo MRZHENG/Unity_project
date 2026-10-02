@@ -1,0 +1,31 @@
+# Unity/Tuanjie generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+
+# 如果只想忽略 "New Tuanjie Project" 里的生成目录，也可以明确写：
+New Tuanjie Project/Library/
+New Tuanjie Project/Temp/
+New Tuanjie Project/Obj/
+New Tuanjie Project/Build/
+New Tuanjie Project/Builds/
+New Tuanjie Project/Logs/
+New Tuanjie Project/UserSettings/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
